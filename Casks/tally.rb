@@ -2,10 +2,10 @@ cask "tally" do
   version "1.0.0"
   sha256 "18e62b9c51594366cda3d284df15c7331a3084ba3ffe9ee7c48d6bcbfe0957f9"
 
-  url "https://github.com/Aiden-Guokuaile/tally/releases/download/v#{version}/Tally.dmg"
+  url "https://github.com/guokuaile/tally/releases/download/v#{version}/Tally.dmg"
   name "Tally"
   desc "Claude Code and Codex session status and AI quotas in the MacBook notch"
-  homepage "https://github.com/Aiden-Guokuaile/tally"
+  homepage "https://github.com/guokuaile/tally"
 
   livecheck do
     url :url
