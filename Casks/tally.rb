@@ -1,6 +1,6 @@
 cask "tally" do
-  version "1.0.0"
-  sha256 "18e62b9c51594366cda3d284df15c7331a3084ba3ffe9ee7c48d6bcbfe0957f9"
+  version "1.0.1"
+  sha256 "ea3205e429e88a768bfd0e4145d6c6a20cf9be7b657aa61aba59f18556b72dee"
 
   url "https://github.com/guokuaile/tally/releases/download/v#{version}/Tally.dmg"
   name "Tally"
